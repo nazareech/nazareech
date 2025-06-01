@@ -15,14 +15,15 @@ I'm a developer who loves coding, learning new things, and building cool project
 - Constantly improving my skills
 -->
 📫 **How to reach me:**
+<!-- 
 - Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
-- Telegram: [@yourusername](https://t.me)
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com) 
+-->
+- Telegram: [@na3areech](https://t.me/na3areech)
 
 🔧 **Fun facts:**
-- I love clean code and coffee ☕
+- I love clean code and cacao ☕
 - I write dev notes on Medium / my blog
-- I explore new frameworks just for fun
 
 Thanks for stopping by 🙌
 
