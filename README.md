@@ -4,6 +4,7 @@
 I'm a developer who loves coding, learning new things, and building cool projects.
 
 💻 **Technologies I work with:**
+- C++
 - Java
 - Unity
 - HTML / CSS
